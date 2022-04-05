@@ -1,6 +1,3 @@
-from traceback import print_tb
-
-
 print("Hello World!")
 print('Hello World!')
 print("""Hello World!""")
