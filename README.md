@@ -1,2 +1,3 @@
 # Learning-Python
-Python programlama öğrenirken yaptığım örnekler ve materyaller. 
+Python programlamayı sıfırdan öğrenirken yaptığım örnekler ve materyaller
+İçerik,
