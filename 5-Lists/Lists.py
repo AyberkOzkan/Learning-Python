@@ -1,3 +1,7 @@
+# A list contains items separated by commas and enclosed within square brackets[]
+# Lists are almos similar to arrays in C
+# One difference is that all the items belonging to a list can be of different data type.
+
 message = " Hello there. I will be a list".split() # Split ile listeye çeviririz.
 print(message)
 print(message[0])
