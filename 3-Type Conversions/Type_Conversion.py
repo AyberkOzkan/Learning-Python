@@ -15,6 +15,7 @@ print(int(b))    # float ---> int
 print(str(bool)) # bool ---> str
 print(bool)
 print(int(bool)) # bool ---> int
+print(boolean(1))
 
 cozum = a + b    # 9.123
 print(cozum)
