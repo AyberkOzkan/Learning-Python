@@ -132,6 +132,6 @@ Python'da birkaç çeşit veri türü vardır. En yaygın olanlarla başlayalım
 - Sets
 <div align="center">
 
-[<< Geri](../README.md) & [Print Fonksiyonu >>](../1-Print%20Function/Print_func.md)
+[<< Geri](../README.md) & [Print Fonksiyonu >>](../1-Print%20and%20Input%20Function/Print_input_func.md)
 
 </div>
