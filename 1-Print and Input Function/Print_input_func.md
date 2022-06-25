@@ -1,3 +1,9 @@
+<div align="center">
+
+[<< Introduction](../0-Keywords,%20Variables,%20Notations%20and%20Data%20Types/Introductions.md) & [Python Operators >>](../2-Operators/Python_Operators.md)
+
+</div>
+
 ## **print() Fonksiyonu**
 ```print()``` fonksiyonun amacı ekrana çıktı vermektir.<br>
 --> 
@@ -25,7 +31,7 @@ print(2+2)
 
 ## **input() Fonksiyonu**
 
-```ìnput()``` fonksiyonu kullanıcıdan girdi almamızı sağlar.
+```input()``` fonksiyonu kullanıcıdan girdi almamızı sağlar.
 <br>
 --> 
 ```py
@@ -40,3 +46,8 @@ sayi = input('Bir sayi giriniz: ')
 print(sayi + 10)    # Kullanıcıdan aldığımız sayıya 10 ekleyelim.
 # Type Error hatası verecektir.
 ```
+<div align="center">
+
+[<< Introduction](../0-Keywords,%20Variables,%20Notations%20and%20Data%20Types/Introductions.md) & [Python Operators >>](../2-Operators/Python_Operators.md)
+
+</div>
