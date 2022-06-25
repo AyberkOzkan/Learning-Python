@@ -1,4 +1,4 @@
-[<< Print Function]<!--(Link son iki kısım)--> || [Type Conversions >>]<!--(Link son iki kısım)-->
+[<< Print and Input Function](../1-Print%20and%20Input%20Function/Print_input_func.md) & [Type Conversions >>]
 
 ## **Matematiksel Operatörler (_Math Operators_)**
 - Toplama (Addition) (+): x + y
@@ -444,4 +444,4 @@ print(f'{name +" "+ surname} kilo indeksiniz: {formul}\nKilo değerlendirmeniz o
 print(100*'-')
 ```
 
-[<< Print Function]<!--(Link son iki kısım)--> || [Type Conversions >>]<!--(Link son iki kısım)-->
+[<< Print and Input Function](../1-Print%20and%20Input%20Function/Print_input_func.md) & [Type Conversions >>]
