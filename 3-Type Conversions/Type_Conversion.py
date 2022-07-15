@@ -15,7 +15,7 @@ print(int(b))    # float ---> int
 print(str(bool)) # bool ---> str
 print(bool)
 print(int(bool)) # bool ---> int
-print(boolean(1))
+
 
 cozum = a + b    # 9.123
 print(cozum)
@@ -36,5 +36,6 @@ l = input("3. Sayıyı giriniz:")
 toplam = j + k + l
 print(toplam) 
 # Girilen değerler String olduğu için matematik işlemine katmak için int dönüşümünü yaptım.
+
 toplam2 = int(j) + int(k) + int(l)
 print(toplam2) 
