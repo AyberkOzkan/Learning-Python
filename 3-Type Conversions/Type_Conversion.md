@@ -8,11 +8,6 @@
 
 Python'da birkaç veri türü vardır. Veri türünü tanımlamak için ```Type()``` fonksiyonunu kullanırız. Farklı veri türlerini çok iyi anlamaya odaklanmanızı rica ediyorum. Bir şeyleri programlama söz konusu olduğunda, neredeyse hemen her şey veri türleri ile ilgili olduğunu göreceksiniz.
 Veri türleri, bellekte biraz yer ayırmak için kullandığınız değişkenlerden başka bir şey değildir.
-<div align="center">
-
-![Data_Types](Data_Types.png)
-
-</div>
 
 </br>
 
