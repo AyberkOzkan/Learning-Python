@@ -1,6 +1,10 @@
-[<< Print and Input Function](../1-Print%20and%20Input%20Function/Print_input_func.md) & [Type Conversions >>]
+<div align="center">
 
-## **Matematiksel Operatörler (_Math Operators_)**
+[<< Print and Input Function](../1-Print%20and%20Input%20Function/Print_input_func.md) & [Type Conversions >>](../3-Type%20Conversions/Type_Conversion.md)
+
+</div>
+
+# **Matematiksel Operatörler (_Math Operators_)**
 - Toplama (Addition) (+): x + y
 - Çıkarma (Subtraction) (-): x - y
 - Çarpma (Multiplication) (*): x * y
@@ -93,7 +97,7 @@ agirlik = kutle * yercekimi
 print(agirlik, 'N')                         # Ağırlığa birim ekleme
 ```
 
-## **Atama Operatörleri (_Assignment Operators_)**
+# **Atama Operatörleri (_Assignment Operators_)**
 
 Değişkenlere değer atamak için atama operatörleri (Assignment Operators) kullanılır. Matematikte "=" işareti iki değerin eşit olduğunu göstersede Python'da belirli bir değişkende bir değer sakladığımız anlamına gelmektedir. Buna atama (Assignment) ya da bir değişkene değer atama (Assigning) diyoruz. Python'daki atama operatörlerinin gösterildiği tabloyu [w3schools](https://www.w3schools.com/python/python_operators.asp)'tan ulaşabilirsiniz.
 
@@ -140,7 +144,7 @@ print(True)     # 1
 print(False)    # 0
 ```
 
-## **Karşılaştırma Operatörleri (_Comparison Operators_)**
+# **Karşılaştırma Operatörleri (_Comparison Operators_)**
 
 Programlamada öyle bir an gelirki 2 değeri karşılaştırmanız gerekir bu durumda **_Karşılaştırma Operatörleri_**'ni kullanmalısınız. Bu anlardan biri yazdığımız uygulamadaki gidişatı belirli koşullarda farklı yollara gitmesini istemek olabilir. Bir değerin diğer değere eşit olup olmadığını veya büyük olup olmadığını kontrol ederiz. Python'daki karşılaştırma operatörlerinin gösterildiği tabloyu [w3schools](https://www.w3schools.com/python/python_operators.asp)'tan ulaşabilirsiniz.
 
@@ -226,7 +230,7 @@ print(y < z)      # True
 print(y <= z)     # True
 ```
 
-### **Zincirleme Karşılaştırmalar (_Chain Comparisons_)**
+## **Zincirleme Karşılaştırmalar (_Chain Comparisons_)**
 
 Birden çok karşılaştırma operatörüyle birden fazla ögeyi karşılaştırabilirsiniz.
 
@@ -283,7 +287,7 @@ print(f'Girilen E-mail adresi: {email == inputEmail.strip()}\nŞifre: {paswrd ==
 # Eğer kullanıcı mail adresini girerken yanlışlıkla başına veya sonuna boşluk girerse False değeri karşımıza çıkacaktır.
 # Bunu önlemek için .strip() kullandık
 ```
-## **Benzerlik Operatörleri (_Identity Operators_)**
+# **Benzerlik Operatörleri (_Identity Operators_)**
 
 ```py
 x = y = [1, 2, 3]   # --> y listesini tanımlarken x ile aynı adreste olacak bir liste tanımlamış olduk.
@@ -304,7 +308,7 @@ print(x is not w)   # True
 
 ```
 
-### **Karşılaştırma Yaparken 'is' ve '==' Arasındaki Fark**
+## **Karşılaştırma Yaparken 'is' ve '==' Arasındaki Fark**
 
 ``` x == y ``` --> x ve y'nin değerlerini karşılaştırır. <br>
 ``` x is y``` --> x ve y'nin kimliklerini yani id numaralarını karşılaştırır.
@@ -319,7 +323,7 @@ print(a is b)               # True
 print(3 ** 3 is 27)         # True
 print(5 ** 128 is not 25)   # True
 ```
-## **Üyelik Operatörleri (_Membership Operators_)**
+# **Üyelik Operatörleri (_Membership Operators_)**
 Karakter dizisi veya bir sayı, bir veri tipinin içerisinde bulunuyorsa bunu kontrol etmemizi sağlarlar.<br>
 ``` in ``` --> Belirtilen değere sahip bir dizi varsa True
 Öğrendiklerimizi birkaç örnekle daha pekiştirelim.<br>
@@ -335,7 +339,7 @@ print("A" in isim)      # True
 print("a" in isim)      # False
 ```
 
-## **Mantıksal Operatörler (_Logical Operators_)**
+# **Mantıksal Operatörler (_Logical Operators_)**
 Mantıksal operatörler, koşullu ifadeleri birleştirmek için kullanılır. Diğer programlama dillerinden farklı olarak Python, mantıksal operatörler için ```and```, ```or``` ve ```not``` sözcüklerini kullanır.Python'daki mantıksal operatörlerinin gösterildiği tabloyu [w3schools](https://www.w3schools.com/python/python_operators.asp)'tan ulaşabilirsiniz.
 
 ![Mantıksal Operatörler](Logical_Operators.png)
@@ -443,5 +447,8 @@ print(100*'-')
 print(f'{name +" "+ surname} kilo indeksiniz: {formul}\nKilo değerlendirmeniz obez: {obez}')
 print(100*'-')
 ```
+<div align="center">
 
-[<< Print and Input Function](../1-Print%20and%20Input%20Function/Print_input_func.md) & [Type Conversions >>]
+[<< Print and Input Function](../1-Print%20and%20Input%20Function/Print_input_func.md) & [Type Conversions >>](../3-Type%20Conversions/Type_Conversion.md)
+
+</div>
