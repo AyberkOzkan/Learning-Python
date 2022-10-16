@@ -1,6 +1,9 @@
 name = "Ayberk"
 surname = "Özkan"
 age = 24
+space = ' '
+information = name + space + surname + space + str(age)
+print(information)
 print("My name is {} {}".format(name, surname))                 # Sırası önemli !
 print("My name is {1} {0}".format(name, surname))               # İndex numarası ile sıralayabilirsin.
 print("My name is {s} {n}".format(n = name, s = surname))       # Değişken tanımlayabilirsin.

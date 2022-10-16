@@ -20,6 +20,11 @@ print(github.find(".com"))
 print(github.index(".com"))
 # "ataturk" içindeki karakterlerin hepsi alfabetik mi? (Harflerden mi oluşur?)
 print(ataturk.isalpha())
+print(ataturk.isspace())
+print(ataturk.istitle())
+print(ataturk.islower())
+print(ataturk.isupper())
+print(ataturk.isalnum())
 print(ataturk.isdigit())    # Rakamlar için
 # "Python" ifadesini satırda 50 karakter içine yerleştirip sağına ve soluna "-" ekleyin
 py = "Python"
