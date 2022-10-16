@@ -1,6 +1,6 @@
 <div align="center">
 
-[<< Python Operators](../2-Operators/Python_Operators.md) & [Strings >>]
+[<< Python Operators](../2-Operators/Python_Operators.md) & [Strings >>](../4-Strings/Strings.md)
 
 </div>
 
@@ -110,6 +110,6 @@ print("Daire'nin Alanı =" + str(alan) + " Daire'nin Çevresi =" + str(cevre))
 ```
 <div align="center">
 
-[<< Python Operators](../2-Operators/Python_Operators.md) & [Strings >>]
+[<< Python Operators](../2-Operators/Python_Operators.md) & [Strings >>](../4-Strings/Strings.md)
 
 </div>
