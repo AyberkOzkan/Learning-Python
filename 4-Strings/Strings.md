@@ -1,6 +1,6 @@
 <div align="center">
 
-[<< Type Conversion](../3-Type%20Conversions/Type_Conversion.md) & [Strings >>]
+[<< Type Conversion](../3-Type%20Conversions/Type_Conversion.md) & [Lists >>]
 
 </div>
 
@@ -73,7 +73,7 @@ Stringleri birleştirme işlemine _**String Concatenation**_ denir
 
 İnsanların daha rahat bir şekilde görmesi için verileri depolarken ve dönüştürürken (Formatting) String biçimlendirme çok önemli hale gelmektedir. Python'da Stringleri biçimlendirmenin birçok yolu var.
 
-### **Yeni Tarz (_% Operatörüyle_)**
+### **Eski Tarz (_% Operatörüyle_)**
 
 - %s String (Veya String temsil eden nesneler de (Sayılar gibi))
 - %d Integers
@@ -95,7 +95,7 @@ print(formated_string2)
 # .4f virgülden sonra 4 basamak alınmasını gösteriyor.
 ```
 
-### **Farklı Tarz (_.format Kullanarak_)**
+### **Yeni Tarz (_.format Kullanarak_)**
 
 
 ```py
@@ -344,6 +344,6 @@ cumle2 = "<<Öz, İl, ülke, Ülkem, göl>>"
 
 <div align="center">
 
-[<< Type Conversion](../3-Type%20Conversions/Type_Conversion.md) & [Strings >>]
+[<< Type Conversion](../3-Type%20Conversions/Type_Conversion.md) & [Lists >>]
 
 </div>
